@@ -1,0 +1,156 @@
+A) 15x2y2z2+2x1y0z4
+B) -9x2y2z3+18x3y0z0	 
+C) 2x1y1z1-7x2y3z4
+D) 17x3y4z3+9x1y0z4-12x0y0z0
+
+
+A = 15x2y2z2 + 2x1y0z4
+Evaluations for A: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is 3968
+For x = -2, y = 1, z = 1 expression is 56
+For x = 1, y = -1, z = 3 expression is 297
+
+
+B = -9x2y2z3 + 18x3y0z0
+Evaluations for B: 
+For x = 5, y = 3, z = 0 expression is 2250
+For x = 4, y = 2, z = 2 expression is -3456
+For x = -2, y = 1, z = 1 expression is -180
+For x = 1, y = -1, z = 3 expression is -225
+
+
+C = 2x1y1z1 + -7x2y3z4
+Evaluations for C: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -14304
+For x = -2, y = 1, z = 1 expression is -32
+For x = 1, y = -1, z = 3 expression is 561
+
+
+D = 2x1y1z1 + -7x2y3z4
+Evaluations for D: 
+For x = 5, y = 3, z = 0 expression is -12
+For x = 4, y = 2, z = 2 expression is 139828
+For x = -2, y = 1, z = 1 expression is -166
+For x = 1, y = -1, z = 3 expression is 1176
+
+
+A+B = 15x2y2z2 + 2x1y0z4 + -9x2y2z3 + 18x3y0z0
+Evaluations for A+B: 
+For x = 5, y = 3, z = 0 expression is 2250
+For x = 4, y = 2, z = 2 expression is 512
+For x = -2, y = 1, z = 1 expression is -124
+For x = 1, y = -1, z = 3 expression is 72
+
+
+A+C = 15x2y2z2 + 2x1y0z4 + 2x1y1z1 + -7x2y3z4
+Evaluations for A+C: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -10336
+For x = -2, y = 1, z = 1 expression is 24
+For x = 1, y = -1, z = 3 expression is 858
+
+
+A+D = 15x2y2z2 + 11x1y0z4 + 17x3y4z3 + -12x0y0z0
+Evaluations for A+D: 
+For x = 5, y = 3, z = 0 expression is -12
+For x = 4, y = 2, z = 2 expression is 143796
+For x = -2, y = 1, z = 1 expression is -110
+For x = 1, y = -1, z = 3 expression is 1473
+
+
+B+C = -9x2y2z3 + 18x3y0z0 + 2x1y1z1 + -7x2y3z4
+Evaluations for B+C: 
+For x = 5, y = 3, z = 0 expression is 2250
+For x = 4, y = 2, z = 2 expression is -17760
+For x = -2, y = 1, z = 1 expression is -212
+For x = 1, y = -1, z = 3 expression is 336
+
+
+B+D = -9x2y2z3 + 18x3y0z0 + 17x3y4z3 + 9x1y0z4 + -12x0y0z0
+Evaluations for B+D: 
+For x = 5, y = 3, z = 0 expression is 2238
+For x = 4, y = 2, z = 2 expression is 136372
+For x = -2, y = 1, z = 1 expression is -346
+For x = 1, y = -1, z = 3 expression is 951
+
+
+B+C = 2x1y1z1 + -7x2y3z4 + 17x3y4z3 + 9x1y0z4 + -12x0y0z0
+Evaluations for C+D: 
+For x = 5, y = 3, z = 0 expression is -12
+For x = 4, y = 2, z = 2 expression is 125524
+For x = -2, y = 1, z = 1 expression is -198
+For x = 1, y = -1, z = 3 expression is 1737
+
+
+B-A = -9x2y2z3 + 18x3y0z0 + -15x2y2z2 + -2x1y0z4
+Evaluations for B-A: 
+For x = 5, y = 3, z = 0 expression is 2250
+For x = 4, y = 2, z = 2 expression is -7424
+For x = -2, y = 1, z = 1 expression is -236
+For x = 1, y = -1, z = 3 expression is -522
+
+
+B-D = -9x2y2z3 + 18x3y0z0 + -17x3y4z3 + -9x1y0z4 + 12x0y0z0
+Evaluations for B-D: 
+For x = 5, y = 3, z = 0 expression is 2262
+For x = 4, y = 2, z = 2 expression is -143284
+For x = -2, y = 1, z = 1 expression is -14
+For x = 1, y = -1, z = 3 expression is -1401
+
+
+A*B = -135x4y4z5 + 270x5y2z2 + -18x3y2z7 + 36x4y0z4
+Evaluations for A*B: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -13713408
+For x = -2, y = 1, z = 1 expression is -10080
+For x = 1, y = -1, z = 3 expression is -66825
+
+
+A*C = 30x3y3z3 + -105x4y5z6 + 4x2y1z5 + -14x3y3z8
+Evaluations for A*C: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -56758272
+For x = -2, y = 1, z = 1 expression is -1792
+For x = 1, y = -1, z = 3 expression is 166617
+
+
+A*D = 255x5y6z5 + 135x3y2z6 + -180x2y2z2 + 34x4y4z7 + 18x2y0z8 + -24x1y0z4
+Evaluations for A*D: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is 554837504
+For x = -2, y = 1, z = 1 expression is -9296
+For x = 1, y = -1, z = 3 expression is 349272
+
+
+B*A = -135x4y4z5 + -18x3y2z7 + 270x5y2z2 + 36x4y0z4
+Evaluations for B*A: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -13713408
+For x = -2, y = 1, z = 1 expression is -10080
+For x = 1, y = -1, z = 3 expression is -66825
+
+
+B*C = -18x3y3z4 + 63x4y5z7 + 36x4y1z1 + -126x5y3z4
+Evaluations for B*C: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is 49434624
+For x = -2, y = 1, z = 1 expression is 5760
+For x = 1, y = -1, z = 3 expression is -126225
+
+
+B*D = -153x5y6z6 + -81x3y2z7 + 108x2y2z3 + 306x6y4z3 + 162x4y0z4 + -216x3y0z0
+Evaluations for B*D: 
+For x = 5, y = 3, z = 0 expression is -27000
+For x = 4, y = 2, z = 2 expression is -483245568
+For x = -2, y = 1, z = 1 expression is 29880
+For x = 1, y = -1, z = 3 expression is -264600
+
+
+C*D = 34x4y5z4 + 18x2y1z5 + -24x1y1z1 + -119x5y7z7 + -63x3y3z8 + 84x2y3z4
+Evaluations for C*D: 
+For x = 5, y = 3, z = 0 expression is 0
+For x = 4, y = 2, z = 2 expression is -2000099712
+For x = -2, y = 1, z = 1 expression is 5312
+For x = 1, y = -1, z = 3 expression is 659736
